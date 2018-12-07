@@ -80,14 +80,14 @@ class Palindrome
      */
     public static boolean almostPal(String s)
     {
-        s = purge(s);
-        s.toLowerCase();
+        String newS = purge(s);
+        newS.toLowerCase();
         
         String rev = new String();
-        int len = s.length();
+        int len = newS.length();
         for(int i=len-1; i>=0; i--)
-            rev+=s.substring(i,i+1);
-        return rev.equals(s);
+            rev+=newS.substring(i,i+1);
+        return rev.equals(newS) && !isPal(s);
     }
 }
 
