@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Eraser
+comment1.params=color\ pencil
+comment1.target=Eraser(java.awt.Color,\ Pencil)
+comment2.params=
+comment2.target=Aspect[]\ getBlueprint()
+numComments=3

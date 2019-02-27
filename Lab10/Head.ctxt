@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Head
+comment1.params=pencil\ color
+comment1.target=Head(Pencil,\ java.awt.Color)
+comment2.params=
+comment2.target=java.awt.Polygon\ getPoly()
+comment3.params=
+comment3.target=java.awt.Point[]\ getPoints()
+numComments=4

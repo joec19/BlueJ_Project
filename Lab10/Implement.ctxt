@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Implement
+comment1.params=g\ obj
+comment1.target=void\ construct(java.awt.Graphics,\ Aspect[])
+numComments=2

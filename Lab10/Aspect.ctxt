@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Aspect
+comment1.params=rectangle\ color
+comment1.target=Aspect(java.awt.Rectangle,\ java.awt.Color)
+comment2.params=tri\ color
+comment2.target=Aspect(java.awt.Polygon,\ java.awt.Color)
+comment3.params=rectangle
+comment3.target=void\ alter(java.awt.Rectangle)
+comment4.params=tri
+comment4.target=void\ alter(java.awt.Polygon)
+comment5.params=color
+comment5.target=void\ alter(java.awt.Color)
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7

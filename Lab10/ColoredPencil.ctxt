@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ColoredPencil
+comment1.params=topLeft\ width\ color
+comment1.target=ColoredPencil(java.awt.Point,\ int,\ java.awt.Color)
+numComments=2
